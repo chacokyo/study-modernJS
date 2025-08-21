@@ -1,4 +1,4 @@
-## toString
+## toString / valueOf
 
 ```js
 let hamster = {
