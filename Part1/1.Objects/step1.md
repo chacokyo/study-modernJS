@@ -37,3 +37,14 @@ let hamter = {
 delete hamster.name
 ```
 - 프로퍼티를 삭제하고 싶은 경우
+
+## 단축 구문
+```js
+function hamster(name) {
+	return {
+		name
+		// name : name
+	}
+}
+```
+- key 이름과 변수 이름이 동일한 경우, key 값만 적어도 됨
