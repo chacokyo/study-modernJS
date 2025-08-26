@@ -113,6 +113,10 @@ isFinite(Infinity) // false
 ## parseInt, parseFloat
 
 ```js
+parseInt("hamster") // NaN
+```
+
+```js
 parseInt("100px") // 100
 parseFloat("100px") // 100
 
