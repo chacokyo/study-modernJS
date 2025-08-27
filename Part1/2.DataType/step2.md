@@ -15,6 +15,13 @@ hamster.slice(3) //ster 3번 부터 끝까지
 - 두번째 인수가 생략된 경우, 명시한 위치부터 문자열 끝까지
 
 ```js
+let hamster = [1, 2]
+hamster.slice() // [1, 2] 새 배열
+```
+
+- 새 배열 반환
+
+```js
 let hamster = "hamster"
 hamster.slice(-3, -1) // te
 ```
