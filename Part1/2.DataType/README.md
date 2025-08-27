@@ -49,7 +49,7 @@
 
 - split
 - join
-- reduec
+- reduce
 - Array.isArray()
 
 ## [step4-3](/Part1/2.DataType/step4-3.md)
