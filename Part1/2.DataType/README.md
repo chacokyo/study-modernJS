@@ -55,3 +55,20 @@
 ## [step4-3](/Part1/2.DataType/step4-3.md)
 
 - slice, concat, [...array]
+
+## [step5-1](/Part1/2.DataType/step5-1.md)
+
+- Map
+
+## [step5-2](/Part1/2.DataType/step5-2.md)
+
+- Object.entries
+- Object.fromEntries
+
+## [step5-3](/Part1/2.DataType/step5-3.md)
+
+- Set
+
+## [step5-4](/Part1/2.DataType/step5-4.md)
+
+- Array.from
