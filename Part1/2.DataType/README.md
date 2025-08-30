@@ -72,3 +72,12 @@
 ## [step5-4](/Part1/2.DataType/step5-4.md)
 
 - Array.from
+
+## [step6](/Part1/2.DataType/step6.md)
+
+- WeakMap
+- WeakSet
+
+## [step8](/Part1/2.DataType/step8.md)
+
+- 구조 분해 할당
