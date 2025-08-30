@@ -81,3 +81,9 @@
 ## [step8](/Part1/2.DataType/step8.md)
 
 - 구조 분해 할당
+
+## [step9](/Part1/2.DataType/step9-1.md)
+
+- Date 객체
+- Date.now
+- Date.parse
