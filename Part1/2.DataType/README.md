@@ -87,3 +87,9 @@
 - Date 객체
 - Date.now
 - Date.parse
+
+## [step10](/Part1/2.DataType/step10.md)
+
+- JSON
+- JSON.stringfy
+- JSON.parse
