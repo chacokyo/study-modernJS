@@ -1,7 +1,5 @@
-[add] Part1/2.DataType
+[add] Part1/3.Function
 
-- step1.js
-
-#[edit] Part1/1.Objects
-
-#- step1.md
+- 
+#[edit]
+#- step1.js
