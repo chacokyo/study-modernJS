@@ -24,3 +24,13 @@
 - setTimeout
 - 재귀 호출
 - 호출 시점
+
+## [step6-1](/Part1/3.Function/step6-1.md)
+
+- apply
+- call
+- bind
+
+## [step6-2](/Part1/3.Function/step6-2.md)
+
+- 데코레이터
