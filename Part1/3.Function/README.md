@@ -34,3 +34,7 @@
 ## [step6-2](/Part1/3.Function/step6-2.md)
 
 - 데코레이터
+
+## [step7](/Part1/3.Function/step7.md)
+
+- bind > this, default value
