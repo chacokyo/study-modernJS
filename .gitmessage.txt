@@ -1,4 +1,4 @@
-[add] Part1/3.Function
+[add] Part1/5.Prototypes
 
 - 
 #[edit]
